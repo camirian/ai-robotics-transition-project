@@ -1,0 +1,31 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.ipynb_checkpoints/
+
+# ROS 2
+build/
+install/
+log/
+
+# Docker
+*.dockerignore
+*.tar.gz
+
+# Notebooks and data
+*.csv
+*.h5
+*.pickle
+
+# IDE and OS
+.vscode/
+*.code-workspace
+.DS_Store
+
+# Sandbox
+sandbox/backups/
+sandbox/sandbox_env/python_venv/
