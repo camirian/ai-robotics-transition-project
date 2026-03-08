@@ -9,6 +9,8 @@ A portfolio showcasing my transition from aerospace/defense to high-tech AI role
 2. **Autonomous Swarm Simulation**: Simulates a drone swarm using NVIDIA Isaac Sim, ROS 2, and SysML v2 architectures.
    - [Documentation](docs/swarm_simulation/)
    - [Demo Video](https://youtu.be/example)
+3. **Enterprise AI Transformation Whitepaper**: A strategic framework for migrating legacy A&D systems to AI-driven architectures using MBSE and NIST frameworks.
+   - [Read Whitepaper](whitepapers/enterprise_ai_transformation.md)
 
 ## Setup
 1. Clone the repo: `git clone https://github.com/yourusername/AI-Robotics-Transition.git`
@@ -66,6 +68,8 @@ AI-Robotics-Transition/
 │   │   ├── demo.md
 │   │   └── architecture.md
 │   └── project_overview.md     # High-level project summary
+├── whitepapers/                # Strategic leadership artifacts
+│   └── enterprise_ai_transformation.md
 ├── notebooks/
 │   ├── llm_experiments/        # Jupyter notebooks for LLM/RAG
 │   └── swarm_experiments/      # Notebooks for swarm simulations
