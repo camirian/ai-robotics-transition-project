@@ -35,7 +35,7 @@ Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ## Contact
 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 
-# Repository Structure
+# Project Structure
 
 ```text
 AI-Robotics-Transition/
