@@ -2,6 +2,9 @@
 
 A portfolio showcasing my transition from aerospace/defense to high-tech AI roles, integrating Model-Based Systems Engineering (MBSE) with AI. Features two projects: a containerized MBSE-to-LLM translator and an autonomous drone swarm simulation.
 
+## Roadmap
+[View the Structural Roadmap](ROADMAP.md)
+
 ## Projects
 1. **MBSE-to-LLM Translator**: Translates SysML v2 models to natural language using LLMs and RAG pipelines, deployed on AWS.
    - [Documentation](docs/mbse_llm_translator/)
